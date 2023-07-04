@@ -25,19 +25,20 @@
 在该项目中，您可以找到以下主要文件和目录：
 
 music-vue/
-├── public/ # 静态资源文件夹
-├── src/ # 源代码文件夹
-│ ├── assets/ # 静态资源文件夹
-│ ├── components/ # 组件文件夹
-│ ├── views/ # 页面文件夹
-│ ├── store/ # pinia 状态管理文件夹
-│ ├── router/ # 路由文件夹
-│ ├── App.vue # 根组件
-│ └── main.js # 入口文件
-├── .gitignore # Git 忽略文件配置
-├── package.json # 项目依赖和配置文件
-├── README.md # 项目说明文档
-└── vite.config.js
+├── public/                 # 静态资源文件夹
+├── src/                    # 源代码文件夹
+│   ├── assets/             # 静态资源文件夹
+│   ├── components/         # 组件文件夹
+│   ├── views/              # 页面文件夹
+│   ├── store/              # pinia 状态管理文件夹
+│   ├── router/             # 路由文件夹
+│   ├── App.vue             # 根组件
+│   └── main.js             # 入口文件
+├── .gitignore              # Git 忽略文件配置
+├── package.json            # 项目依赖和配置文件
+├── README.md               # 项目说明文档
+└── vite.config.js          # Vite 配置文件
+
 
 
 ## 使用说明
@@ -91,19 +92,19 @@ Data fetching: Axios
 In this project, you will find the following main files and directories:
 
 music-vue/
-├── public/ # Static resource folder
-├── src/ # Source code folder
-│ ├── assets/ # Static assets folder
-│ ├── components/ # Components folder
-│ ├── views/ # Pages folder
-│ ├── store/ # Pinia state management folder
-│ ├── router/ # Router folder
-│ ├── App.vue # Root component
-│ └── main.js # Entry file
-├── .gitignore # Git ignore file configuration
-├── package.json # Project dependencies and configuration file
-├── README.md # Project documentation
-└── vite.config.js
+├── public/                 # Static resource folder
+├── src/                    # Source code folder
+│   ├── assets/             # Static assets folder
+│   ├── components/         # Components folder
+│   ├── views/              # Pages folder
+│   ├── store/              # Pinia state management folder
+│   ├── router/             # Router folder
+│   ├── App.vue             # Root component
+│   └── main.js             # Entry file
+├── .gitignore              # Git ignore file configuration
+├── package.json            # Project dependencies and configuration file
+├── README.md               # Project documentation
+└── vite.config.js          # Vite configuration file
 
 ## Usage
 Clone or download this repository to your local environment.
